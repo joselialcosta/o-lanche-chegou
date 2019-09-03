@@ -1,4 +1,4 @@
-# O lanche chegou? :eyes:
+# O lanche chegou? :eyes: :bread:
 
 > _Disclaimer:_
 > Este projeto tem como objetivo fortalecer conceitos básicos de arquitetura de um projeto em JavaScript usando React. O lanche ter chegado no lounge da empresa é uma desculpa/motivação para praticar estes conceitos.
